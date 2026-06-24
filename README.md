@@ -3,7 +3,7 @@
 **Observe. Extract. Create.**  
 OpenTrace is a digital lightbox and tracing utility built for artists. It uses your device's camera as a background while overlaying reference images, allowing you to trace directly onto paper with perfect proportions. 
 
-![App Screenshot]<img width="1080" height="2340" alt="WhatsApp Image 2026-06-24 at 8 15 56 PM" src="https://github.com/user-attachments/assets/e6b72d24-c996-44df-9ae3-fc7606aae1ac" />
+[App Screenshot]<img width="1080" height="2340" alt="WhatsApp Image 2026-06-24 at 8 15 56 PM" src="https://github.com/user-attachments/assets/e6b72d24-c996-44df-9ae3-fc7606aae1ac" />
 
 
 ## ✨ Features
