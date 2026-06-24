@@ -3,7 +3,8 @@
 **Observe. Extract. Create.**  
 OpenTrace is a digital lightbox and tracing utility built for artists. It uses your device's camera as a background while overlaying reference images, allowing you to trace directly onto paper with perfect proportions. 
 
-![App Screenshot]
+![App Screenshot]<img width="1080" height="2340" alt="WhatsApp Image 2026-06-24 at 8 15 56 PM" src="https://github.com/user-attachments/assets/e6b72d24-c996-44df-9ae3-fc7606aae1ac" />
+
 
 ## ✨ Features
 
@@ -32,20 +33,23 @@ If you want to clone this repository and run it on your own machine:
 1. **Install dependencies:**
 ```bash
    npm install
+```
 Start the Expo server:
 
-Bash
+```Bash
    npx expo start -c
+```
 Run on your phone:
 Scan the generated QR code using the Expo Go app on Android or iOS.
 
 📦 Building the APK (Android)
 This project is configured to be built locally via Expo Application Services (EAS) without requiring a strict Git history. To build an installable .apk file for your phone:
 
-Bash
+```Bash
 set EAS_NO_VCS=1 && eas build -p android --profile preview
-Created as a personal utility to level up my drawing and coding skills!
+```
 ## 📥 Download the App
 **[Download the latest Android APK here!](https://github.com/akhtarsaaeem-sys/OpenTrace/releases/latest)**
 
 *(Note: Your phone may ask you to allow installations from unknown sources, as this is an independent developer build.)*
+Created as a personal utility to level up my drawing and coding skills!
