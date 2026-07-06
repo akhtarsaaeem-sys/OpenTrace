@@ -1,3 +1,5 @@
+<img width="1086" height="786" alt="WhatsApp Image 2026-07-05 at 7 33 48 PM" src="https://github.com/user-attachments/assets/e9b1b11d-3419-4cc2-86c3-bc55f5664c05" />
+
 # OpenTrace ✏️
 
 **Observe. Extract. Create.**  
