@@ -55,3 +55,5 @@ set EAS_NO_VCS=1 && eas build -p android --profile preview
 
 *(Note: Your phone may ask you to allow installations from unknown sources, as this is an independent developer build.)*
 Created as a personal utility to level up my drawing and coding skills!
+---
+*Disclaimer: This is a fan-made, non-commercial open-source project. Any characters, artwork, or properties from Honkai: Star Rail used in the documentation or screenshots are the intellectual property of HoYoverse. This project is not affiliated with, endorsed by, or sponsored by HoYoverse.*
